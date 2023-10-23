@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
-<!--
+
 # 👋 Hello, I'm [Your Name]
 
 🔒 Cybersecurity Enthusiast | 🌐 Blockchain Developer | 🧙 Ethical Hacker
@@ -44,5 +44,3 @@ Welcome to my GitHub profile! I'm passionate about all things related to cyberse
 I'm always eager to explore new opportunities and collaborate with like-minded individuals. If you're interested in working together on a project, have questions, or simply want to chat about cybersecurity or blockchain, don't hesitate to get in touch. Let's make the digital world safer and more decentralized together! 🌐🔐
 
 ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
-
--->
