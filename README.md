@@ -2,10 +2,9 @@
 
 ## Nice to see you here 👋
 
-📅 This calendar prepared by me includes hackathons, grand and events.
+📅 This [calendar](https://calendar.google.com/calendar/u/0?cid=ZTcwZTBlYzc4N2VlMmQzNzkzZWE0OGU2ZjFmZjQ4MWVmNDIwMmU0YmExODZmMDhjZDcxNTZlYTFmMjdlODcyM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) prepared by me includes hackathons, grand and events. 
 
-👾 https://calendar.google.com/calendar/u/0?cid=ZTcwZTBlYzc4N2VlMmQzNzkzZWE0OGU2ZjFmZjQ4MWVmNDIwMmU0YmExODZmMDhjZDcxNTZlYTFmMjdlODcyM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
-
+👾 
 
 
 
